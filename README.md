@@ -1,5 +1,5 @@
-# 🚀 LAUNCHER³ V1 smart contracts
-## Getting Started
+# 🚀 LAUNCHER³ V1 interface
+### Getting Started
 
 Create a project using this example:
 
