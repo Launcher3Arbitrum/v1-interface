@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.linear-gradient {
+    background: linear-gradient(179.14deg,
+            rgba(32, 18, 63, 0) -7.14%,
+            #000000 87.01%);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+    filter: invert(0.8);
+}
+
+.donate {
+    background-color: #1D6EF1;
+    color: #FFFFFF;
+    font-size: x-small;
+}
+
+.social {
+    background-color: #1D6EF1;
+    color: #FFFFFF;
+    font-size: small;
+}
+
+.powered {
+    background-color: #3a3a43;
+    color: #FFFFFF;
+    font-size: x-small;
+}
