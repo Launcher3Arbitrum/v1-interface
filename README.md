@@ -1,4 +1,10 @@
 # 🚀 LAUNCHER³ V1 interface
+
+**Netlify**: https://launcher3.netlify.app/
+**Dweb**: https://bafybeigakjuqx4b66ii56dsp555qldhphu4emynwgee55igetv6sfr7fni.ipfs.dweb.link/
+**IPFS**: ipfs://bafybeigakjuqx4b66ii56dsp555qldhphu4emynwgee55igetv6sfr7fni/
+
+---
 ### Getting Started
 
 Create a project using this example:
