@@ -1,5 +1,7 @@
 # 🚀 LAUNCHER³ V1 interface
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/774b796e-e122-4f5c-a37a-e55664f48328/deploy-status)](https://app.netlify.com/sites/launcher3/deploys)
+
 - **Netlify**: https://launcher3.netlify.app/
 - **Dweb**: https://bafybeigakjuqx4b66ii56dsp555qldhphu4emynwgee55igetv6sfr7fni.ipfs.dweb.link/
 - **IPFS**: ipfs://bafybeigakjuqx4b66ii56dsp555qldhphu4emynwgee55igetv6sfr7fni/
